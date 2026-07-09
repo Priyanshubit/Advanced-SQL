@@ -13,7 +13,8 @@
 
 </p>
 
----
+<img width="1243" height="672" alt="image" src="https://github.com/user-attachments/assets/2fb67696-5837-4682-90f3-c55855dbb03f" />
+
 
 ## 🎮 Welcome to SQL Squid Game
 
