@@ -1,0 +1,7 @@
+## 🧠 SOLUTION
+
+SELECT *
+FROM player
+WHERE status='alive' and debt>400000000 and (age>65 or (vice='Gambling' and has_close_family = FALSE));
+                    
+                

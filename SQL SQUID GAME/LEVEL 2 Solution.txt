@@ -1,0 +1,13 @@
+## 🧠 SOLUTION
+
+SELECT
+    FLOOR(COUNT(*) * 0.9) AS rations_needed,
+    CASE
+        WHEN MAX(r.amount) >= FLOOR(COUNT(*) * 0.9) THEN TRUE
+        ELSE FALSE
+    END AS sufficient
+FROM player p
+CROSS JOIN rations r
+WHERE p.status = 'alive'
+  AND p.IsInsider = FALSE;      
+                
