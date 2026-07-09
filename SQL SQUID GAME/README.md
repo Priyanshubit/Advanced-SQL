@@ -37,20 +37,13 @@ SQL-Squid-Game/
 │   └── level4.png
 │
 ├── Level-01-Red-Light-Green-Light/
-│   ├── README.md
-│   └── solution.sql
 │
 ├── Level-02-Rations/
-│   ├── README.md
-│   └── solution.sql
 │
 ├── Level-03-Honeycomb/
-│   ├── README.md
-│   └── solution.sql
 │
 └── Level-04-Tug-of-War/
-    ├── README.md
-    └── solution.sql
+  
 ```
 
 ---
@@ -77,11 +70,6 @@ Identify vulnerable players who are:
 - 👴 Elderly **OR**
 - 🎲 Gambling addicts with no close family
 
-📂 Folder
-
-```text
-Level-01-Red-Light-Green-Light
-```
 
 ---
 
@@ -100,11 +88,6 @@ Calculate the number of food rations required for **90% of surviving non-insider
 - CROSS JOIN
 - Boolean Logic
 
-📂 Folder
-
-```text
-Level-02-Rations
-```
 
 ---
 
@@ -124,11 +107,6 @@ Analyze the average completion time for each honeycomb shape during the **hottes
 - ORDER BY
 - Subqueries
 
-📂 Folder
-
-```text
-Level-03-Honeycomb
-```
 
 ---
 
@@ -147,11 +125,6 @@ Calculate the average age of teams with exactly **10 players**, categorize them 
 - Window Functions
 - RANK()
 
-📂 Folder
-
-```text
-Level-04-Tug-of-War
-```
 
 ---
 
