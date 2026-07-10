@@ -97,6 +97,9 @@ Calculate the number of food rations required for **90% of surviving non-insider
 
 # 🍯 Level 3 — Honeycomb
 
+<img width="1175" height="630" alt="image" src="https://github.com/user-attachments/assets/6b950a5a-1e36-4ada-b1b1-73f403f45e9d" />
+
+
 ### 🎯 Mission
 
 Analyze the average completion time for each honeycomb shape during the **hottest and coldest months** over the **last 20 years**.
