@@ -29,12 +29,6 @@ Every challenge is designed around a fictional dataset where you'll solve real-w
 SQL-Squid-Game/
 │
 ├── README.md
-├── assets/
-│   ├── banner.png
-│   ├── level1.png
-│   ├── level2.png
-│   ├── level3.png
-│   └── level4.png
 │
 ├── Level-01-Red-Light-Green-Light/
 │
