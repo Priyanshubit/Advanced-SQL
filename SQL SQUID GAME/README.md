@@ -61,6 +61,8 @@ SQL-Squid-Game/
 
 # 🚦 Level 1 — Red Light Green Light
 
+<img width="857" height="440" alt="image" src="https://github.com/user-attachments/assets/2a8ec195-c364-4715-83a1-86ad4c4f7300" />
+
 ### 🎯 Mission
 
 Identify vulnerable players who are:
