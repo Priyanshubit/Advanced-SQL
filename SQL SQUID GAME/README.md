@@ -75,6 +75,8 @@ Identify vulnerable players who are:
 
 # 🍱 Level 2 — Rations
 
+<img width="993" height="477" alt="image" src="https://github.com/user-attachments/assets/39904f43-10fa-4284-a7a8-5ad01880c2ca" />
+
 ### 🎯 Mission
 
 Calculate the number of food rations required for **90% of surviving non-insider players** and determine whether the available food supply is sufficient.
