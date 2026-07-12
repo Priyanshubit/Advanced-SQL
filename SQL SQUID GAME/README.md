@@ -129,24 +129,6 @@ Calculate the average age of teams with exactly **10 players**, categorize them 
 - RANK()
 
 
-# 🪢 Level 4 — Tug of War
-
-### 🎯 Mission
-
-<img width="1173" height="585" alt="image" src="https://github.com/user-attachments/assets/fa703478-5e00-4ba4-94c5-9ea0b8adaec9" />
-
-Calculate the average age of teams with exactly **10 players**, categorize them into age groups, and rank them based on average age.
-
-### 📖 SQL Concepts
-
-- HAVING
-- CASE
-- AVG()
-- GROUP BY
-- Window Functions
-- RANK()
-
-
 ---
 
 # 🧠 SQL Topics Covered
